@@ -6,7 +6,7 @@ public class OrgCreation {
 	@Test
 	public void create() {
 		System.out.println("User1 organization created ");
-		
+		System.out.println("create");
 	}
 	
 
