@@ -10,6 +10,11 @@ public class LeadCreation {
 			
 		}
 		
+		@Test
+		public void name() {
+			System.out.println("name");
+		}
+		
 
 	}
 
