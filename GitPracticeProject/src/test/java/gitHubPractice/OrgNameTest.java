@@ -2,7 +2,7 @@ package gitHubPractice;
 
 import org.testng.annotations.Test;
 
-public class orgName {
+public class OrgNameTest {
 	@Test
 	public void name()
 	{

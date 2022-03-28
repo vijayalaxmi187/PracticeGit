@@ -2,7 +2,7 @@ package gitHubPractice;
 
 import org.testng.annotations.Test;
 
-public class LeadCreation {
+public class LeadCreationTest {
 
 		@Test
 		public void lead() {
